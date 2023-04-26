@@ -8,9 +8,9 @@
 
 // task 2
 
-// document.querySelector("#list").innerHTML = "Projects";
-// let a = document.querySelector(".search-field input");
-// a.placeholder ="Search My Project";
+document.querySelector("#list").innerHTML = "Projects";
+let a = document.querySelector(".search-field input");
+a.placeholder ="Search My Project";
 
 // task 3
 // document.querySelector("#list").innerHTML = "Projects";
